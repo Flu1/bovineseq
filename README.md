@@ -1,7 +1,9 @@
 # bovineseq
 Additional analysis of sequencing for Dholakia et al. - Polymerase mutations underlie early adaptation of H5N1 influenza virus to dairy cattle and other mammals.
 
-This repository details the seequencing analysis on the whole genome sequencing data for influenza viruses passaged through human nasal epithelial cells.
+The R code details how sequences were analyzed and includes the code used to make the graph.
+
+This repository details the sequencing analysis on the whole genome sequencing data for influenza viruses passaged through human nasal epithelial cells.
 Sequence data is available from https://www.ebi.ac.uk/ena under project PRJEB102111.
 The sequences analysed were 
 
